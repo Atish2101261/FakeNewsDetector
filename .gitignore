@@ -1,5 +1,8 @@
+Fake.csv
+True.csv
+users.csv
 __pycache__/
-*.log
+.streamlit/
+venv/
 .env
-node_modules/
 *.pyc
